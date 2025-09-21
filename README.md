@@ -1,10 +1,16 @@
-**## September 2025 Edition**
+
+
+>This repository is a curated list of the best VR, AR, and XR news websites, blogs, and media outlets to follow in 2025.  
+>It highlights authoritative sources covering virtual reality, augmented reality, and immersive technology updates.
+
+
+## **List of VR News Sites Up To Date As Of September 2025**
 
 While browsing the web in search of up-to-date VR and XR news websites, I noticed many existing lists and directories are outdated. Some publications have grown more prominent over the years, while others have gone quiet or shut down. Most older catalogues and lists don't reflect these changes in the fast-evolving world of Virtual Reality (VR), Augmented Reality (AR), Mixed Reality (MR), and Extended Reality (XR).
 
 This list aims to fix that by highlighting some of the most useful, prominent, and regularly updated VR/AR/XR blogs, magazines, and news sites as of September 2025. It's not in any strict order of rank (in fact all outlets are listed alphabetically below), but each entry was chosen for its quality content, industry reputation, and frequency of updates. From long-running independent VR blogs to mainstream tech outlets covering AR, these resources will help you stay informed about the latest developments in immersive tech.
 
-Below are a list of 15 of the top VR/AR/XR news sites (as of September 2025):
+**Below are a list of 15 of the top VR/AR/XR news sites (as of September 2025):**
 
 [80lv](https://80.lv/articles/vr/)  -  A creative-focused outlet covering video game development, digital art, and design - including plenty of VR-related content. 80 Level (80lv) is known as a leading source of insight on game technology and art, featuring interviews, tutorials, and case studies from developers and artists on the cutting edge of VR gaming and 3D design.
 
@@ -118,3 +124,13 @@ Below are a list of 15 of the top VR/AR/XR news sites (as of September 2025):
 Combined, the above publications provide a comprehensive overview of what's happening in the VR/AR/XR space in 2025. By following these sites, you'll be well-equipped to track everything from gaming and hardware news to enterprise AR applications and the evolving cultural impact of immersive tech.
 
 Whether you're a VR developer, an AR enthusiast, or just curious about the metaverse, I hope these resources will keep you up-to-date in the rapidly changing XR landscape. Happy reading, and see you in virtual space!
+## Contributing
+If you know of other XR resources worth adding, feel free to open an issue or pull request.
+<br/>
+<br/>
+<br/>
+<br/>
+Cheers,
+<br/>
+<br/>
+Zheng
